@@ -1,11 +1,11 @@
 var config = {
     style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+    accessToken: 'pk.eyJ1IjoiZHB0c3JrciIsImEiOiJja2c1bndrM2UwNm41MnFtb3VsbXc2bzVtIn0.bCs2zEqSIIr5gGmwrhbN0Q',
     showMarkers: true,
     theme: 'light',
     alignment: 'left',
-    title: 'The Title Text of this Story',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
+    title: 'Assignment 1 Trial 2022',
+    subtitle: 'Let us see if things work this year too',
     byline: 'By a Digital Storyteller',
     footer: 'Source: source citations, etc.',
     chapters: [
